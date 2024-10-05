@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif)]
+![MasterHead](https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif)
 
 <h1 align="center">Hi 👋, I'm Filip Karika</h1>
 <h3 align="center">A passionate full-stack developer from Slovakia currently studying in Prague</h3>
