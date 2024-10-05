@@ -5,10 +5,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/98/33/5f/98335fcd764b32cae3780b1e1d5d39b4.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sknefi&label=Profile%20views&color=0e75b6&style=flat" alt="sknefi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sknefi" alt="sknefi" /></a> </p>
-
 - 🔭 I’m currently working on [42 Prague projects](https://www.42prague.com/)
 
 - 🌱 I’m currently learning **MERN, C**
