@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN, C**
 
-- 🤝 I’m studying at [unicorn university](https://unicornuniversity.net/cs/home)
+- 🤝 I’m studying at [Unicorn university](https://unicornuniversity.net/cs/home)
 
 - 💬 Ask me about **anything :)**
 
