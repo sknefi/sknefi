@@ -3,9 +3,12 @@
 <h1 align="center">Hi 👋, I'm Filip Karika</h1>
 <h3 align="center">A passionate full-stack developer from Slovakia currently studying in Prague</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/98/33/5f/98335fcd764b32cae3780b1e1d5d39b4.gif">
+<div align="right">
+<img alt="Coding" width="400" src="https://i.pinimg.com/originals/98/33/5f/98335fcd764b32cae3780b1e1d5d39b4.gif">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sknefi&show_icons=true&locale=en&layout=compact" alt="sknefi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sknefi&show_icons=true&locale=en&layout=compact" alt="sknefi" />
+</div>
+
 
 - 🔭 I’m currently working on [42 Prague projects](https://www.42prague.com/)
 
