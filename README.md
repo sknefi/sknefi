@@ -26,19 +26,19 @@
 
 <h3 align="left">On daily basis I use:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,chatgpt,githubcopilot,linkedin,slack,discord,brave&perline=4)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,chatgpt,githubcopilot,linkedin,slack,discord,brave)
 
 <h3 align="left">I am good at:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,bootstrap,htmx,python&perline=4)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,bootstrap,htmx,python)
 
 <h3 align="left">My main specialization - Web Development:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,reactbootstrap,nodejs,expressjs,mongodb,mongoose,insomnia,postman,json,jwt,npm&perline=4)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,reactbootstrap,nodejs,expressjs,mongodb,mongoose,insomnia,postman,json,jwt,npm)
 
 <h3 align="left">My main specialization - Low-level Development:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,git,github,arduino,terminal,vim&perline=4)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,git,github,arduino,terminal,vim)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sknefi&show_icons=true&locale=en&layout=compact" alt="sknefi" /></p>
