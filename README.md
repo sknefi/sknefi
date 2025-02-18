@@ -26,6 +26,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=brave,chatgpt,discord,githubcopilot,slack,linkedin,vscode,flutter&perline=3)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript,bootstrap,css,html,htmx,python,flutter&perline=3)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=insomnia,postman,json,jwt,mongodb,mongoose,nodejs,npm,react,reactbootstrap,flutter&perline=3)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,git,github,arduino,terminal,vim,flutter&perline=3)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sknefi&show_icons=true&locale=en&layout=compact" alt="sknefi" /></p>
