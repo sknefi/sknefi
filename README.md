@@ -41,4 +41,4 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,git,github,arduino,terminal,vim&perline=4)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sknefi&show_icons=true&locale=en&layout=compact" alt="sknefi" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sknefi&show_icons=true&locale=en&layout=compact" alt="sknefi" /></p>
