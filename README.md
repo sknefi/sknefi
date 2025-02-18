@@ -3,13 +3,15 @@
 <h1 align="center">Hi 👋, I'm Filip Karika</h1>
 <h3 align="center">A passionate full-stack developer from Slovakia currently studying in Prague</h3>
 
+<div> 
+
 <div align="right">
 <img alt="Coding" width="400" src="https://i.pinimg.com/originals/98/33/5f/98335fcd764b32cae3780b1e1d5d39b4.gif">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sknefi&show_icons=true&locale=en&layout=compact" alt="sknefi" />
 </div>
 
-
+<div align="left"> 
 - 🔭 I’m currently working on [42 Prague projects](https://www.42prague.com/)
 
 - 🌱 I’m currently learning **MERN, C**
@@ -45,4 +47,5 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,git,github,arduino,terminal,vim&perline=4)
 
-
+</div>
+</div>
