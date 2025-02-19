@@ -36,3 +36,5 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,reactbootstrap,nodejs,expressjs,mongodb,mongoose,insomnia,postman,json,jwt,npm)
 
 <h3 align="left">My main specialization - Low-level Development:</h3>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,git,github,arduino,terminal,vim)
