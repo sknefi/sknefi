@@ -39,15 +39,4 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,git,github,arduino,terminal,vim)
 
-<h3 align="left">Github info:</h3>
-
-<table width="100%">
-  <tr>
-    <td align="left" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sknefi&theme=dracula&hide_border=false" alt="sknefi's Streak" />
-    </td>
-    <td align="right" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sknefi&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="sknefi's Top Languages" />
-    </td>
-  </tr>
-</table>
+![sknefi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sknefi&theme=dracula&hide_border=false)
