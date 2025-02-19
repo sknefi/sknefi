@@ -21,16 +21,15 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/filip-karika-13b5072b0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filip karika" height="30" width="40" /></a>
 <a href="https://instagram.com/f_karika_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f_karika_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/filip_karika1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="filip_karika1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">On daily basis I use:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,chatgpt,githubcopilot,linkedin,slack,discord,brave)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,chatgpt,githubcopilot,linkedin,slack,discord,brave&perline=4)
 
 <h3 align="left">I am good at:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,bootstrap,htmx,python)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,bootstrap,htmx,python&perline=6)
 
 <h3 align="left">My main specialization - Web Development:</h3>
 
@@ -40,5 +39,15 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,git,github,arduino,terminal,vim)
 
+<h3 align="left">Github info:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sknefi&show_icons=true&locale=en&layout=compact" alt="sknefi" /></p>
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sknefi&theme=dracula&hide_border=false" alt="sknefi's Streak" />
+    </td>
+    <td align="right" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sknefi&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="sknefi's Top Languages" />
+    </td>
+  </tr>
+</table>
