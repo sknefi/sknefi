@@ -25,7 +25,7 @@
 
 <h3 align="left">On daily basis I use:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,chatgpt,githubcopilot,linkedin,slack,discord,brave&perline=4)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,chatgpt,linkedin,slack,discord,githubcopilot,git,github&perline=4)
 
 <h3 align="left">I am good at:</h3>
 
@@ -37,4 +37,4 @@
 
 <h3 align="left">My main specialization - Low-level Development:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,git,github,arduino,terminal,vim)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,arduino,terminal,vim)
