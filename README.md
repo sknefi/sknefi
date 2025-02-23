@@ -29,7 +29,7 @@
 
 <h3 align="left">I am good at:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,bootstrap,htmx,python&perline=6)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,bootstrap,htmx,python,arduino&perline=6)
 
 <h3 align="left">My main specialization - Web Development:</h3>
 
@@ -37,4 +37,4 @@
 
 <h3 align="left">My main specialization - Low-level Development:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,arduino,terminal,vim)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,terminal,vim)
