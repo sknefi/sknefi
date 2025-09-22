@@ -37,4 +37,4 @@
 
 <h3 align="left">My main specialization - Low-level Development:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,terminal,vim)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,terminal,vim)
