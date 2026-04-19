@@ -20,12 +20,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/filip-karika-13b5072b0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filip karika" height="30" width="40" /></a>
-<a href="https://instagram.com/f_karika_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f_karika_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">On daily basis I use:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,linkedin,git,github&perline=4)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,git,github&perline=3)
 
 <h3 align="left">I am good at:</h3>
 
