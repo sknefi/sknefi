@@ -1,39 +1,27 @@
 ![MasterHead](https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif)
 
 <h1 align="center">Hi 👋, I'm Filip Karika</h1>
-<h3 align="center">A passionate full-stack developer from Slovakia currently studying in Prague</h3>
+<h3 align="center">Full-Stack Developer focused on Backend & DevOps</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/98/33/5f/98335fcd764b32cae3780b1e1d5d39b4.gif">
 
-- 🔭 I’m currently working on [42 Prague projects](https://www.42prague.com/)
+- 🧠 I’m interested in **AI-powered products, RAG systems, MCPs, and LLM integrations**
 
-- 🌱 I’m currently learning **MERN, C**
+- 🔧 I enjoy working with **APIs, databases, authentication, infrastructure, and deployment workflows**
 
-- 🤝 I’m studying at [Unicorn university](https://unicornuniversity.net/cs/home)
+- 🎓 I’m studying at **Unicorn University** and **42 Prague**
 
-- 💬 Ask me about **anything :)**
+- 📚 I try to push myself every day, contribute to software consistently, and keep improving
 
-- 📫 How to reach me **filip.karika1@gmail.com**
+- 🌱 In the future, I want to start my own startup and experience the full startup journey from the beginning
 
-- ⚡ Fun fact **I think I am funny**
+- 🚀 More information about me: **[sknefi.github.io](https://sknefi.github.io/)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/filip-karika-13b5072b0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filip karika" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">On daily basis I use:</h3>
+<h3 align="left">Main Stack:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,git,github&perline=3)
+![Main Stack](https://go-skill-icons.vercel.app/api/icons?i=mongodb,expressjs,react,nodejs,typescript,docker,nginx&perline=7)
 
-<h3 align="left">I am good at:</h3>
+<h3 align="left">Daily Tools:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,bootstrap,htmx,python,arduino&perline=7)
-
-<h3 align="left">My main specialization - Web Development:</h3>
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,reactbootstrap,nodejs,expressjs,mongodb,mongoose,insomnia,postman,json,jwt,npm)
-
-<h3 align="left">My main specialization - Low-level Development:</h3>
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,terminal,vim)
+![Daily Tools](https://go-skill-icons.vercel.app/api/icons?i=cursor,chatgpt,git,github,linkedin&perline=5)
