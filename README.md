@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" style="margin-left: 24px;" src="https://i.pinimg.com/originals/98/33/5f/98335fcd764b32cae3780b1e1d5d39b4.gif">
 
-- 🧠 I’m interested in **AI-powered products, RAG systems, MCPs, and LLM integrations**
+- 🧠 I’m interested in **AI-powered products, RAG systems, LLM integrations, and MCPs**
 
 - 🔧 I enjoy working with **APIs, databases, authentication, infrastructure, and deployment workflows**
 
