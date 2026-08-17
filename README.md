@@ -1,4 +1,6 @@
-![MasterHead](https://i.pinimg.com/736x/db/39/d1/db39d1ea9a57224db4baef629838dbdb.jpg)
+<p align="center">
+  <img src="sky.png" width="100%" alt="Banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Filip Karika</h1>
 <h3 align="center">Full-Stack Developer focused on Backend & DevOps</h3>
