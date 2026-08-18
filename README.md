@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Filip Karika</h1>
-<h3 align="center">Full-Stack Developer focused on Backend & DevOps</h3>
+<h3 align="center">Full-Stack Developer focused on Backend & AI Integrations</h3>
 
 <img align="right" alt="Coding" width="400" style="margin-left: 24px;" src="https://i.pinimg.com/originals/67/9f/ed/679fed27aa3567039c2fc7a0ec274ae5.gif">
 
